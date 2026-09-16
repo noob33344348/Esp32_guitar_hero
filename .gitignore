@@ -1,0 +1,8 @@
+build/
+components/
+CMakeLists.txt
+idf_component.yml
+sdkconfig
+sdkconfig.old
+*.jpg
+dependencies.lock
